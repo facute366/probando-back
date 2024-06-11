@@ -1,10 +1,10 @@
 {
   "name": "nueva-carpeta",
   "version": "1.0.0",
-  "main": "back/server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node back/server.js"
+    "start": "node server.js"
     
   },
   "author": "",
